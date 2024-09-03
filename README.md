@@ -1,1 +1,1 @@
-IN this there are simple java logics 
+In this there are simple java codes logic's.Developed by me .
