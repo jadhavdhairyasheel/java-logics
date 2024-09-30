@@ -1,1 +1,2 @@
-In this there are simple java codes logic's.Developed by me .
+In this there are  java codes .
+Developed by me .
